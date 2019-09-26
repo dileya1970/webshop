@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+
+.right {
+    text-align: right;
+    float: right;
+}
+
+
+header{
+    text-align: center;
+    font-size: 30px;
+    background-color: cadetblue;
+    font-weight: bold;
+    color: green;
+
+}
+
+.card {display:inline-block;}
+
+.list-group{
+      display:inline-block;
+ }
